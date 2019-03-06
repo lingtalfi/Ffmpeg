@@ -1,6 +1,6 @@
 <?php
 
-namespace Ffmpeg;
+namespace Ling\Ffmpeg;
 
 /*
  * LingTalfi 2016-04-04

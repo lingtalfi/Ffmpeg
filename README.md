@@ -14,7 +14,7 @@ Install
 
 Using the [uni tool](https://github.com/lingtalfi/universe-naive-importer)
 ```bash
-uni import Ffmpeg
+uni import Ling/Ffmpeg
 ```
 
 
@@ -34,7 +34,7 @@ Examples
 <?php
 
 
-use Ffmpeg\Ffmpeg;
+use Ling\Ffmpeg\Ffmpeg;
 
 require_once "bigbang.php"; // start the local universe
 
